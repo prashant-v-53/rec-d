@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="52.667" height="48.087" viewBox="0 0 52.667 48.087">
+  <g id="camera_3_" data-name="camera (3)" transform="translate(0 -21.333)">
+    <g id="Group_280" data-name="Group 280" transform="translate(0 21.333)">
+      <g id="Group_279" data-name="Group 279" transform="translate(0 0)">
+        <path id="Path_339" data-name="Path 339" d="M105.218,89.913H97.959l-4.19-4.58H77.739V92.2H70.87v6.87H64v22.9a4.593,4.593,0,0,0,4.58,4.58h36.638a4.593,4.593,0,0,0,4.58-4.58V94.492A4.593,4.593,0,0,0,105.218,89.913ZM86.9,119.681a11.449,11.449,0,1,1,11.449-11.449A11.454,11.454,0,0,1,86.9,119.681Z" transform="translate(-57.13 -78.463)" fill="#fff"/>
+        <path id="Path_340" data-name="Path 340" d="M6.87,39.652h4.58v-6.87h6.87V28.2h-6.87v-6.87H6.87V28.2H0v4.58H6.87Z" transform="translate(0 -21.333)" fill="#fff"/>
+        <path id="Path_341" data-name="Path 341" d="M216.394,230.4a7.32,7.32,0,0,0-7.328,7.328h0a7.328,7.328,0,1,0,7.328-7.328Z" transform="translate(-186.625 -207.959)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

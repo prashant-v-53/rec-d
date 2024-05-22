@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "167770679528",
+    "project_id": "rec-d-397d4",
+    "storage_bucket": "rec-d-397d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167770679528:android:4e9299c00aeaf87e90c15d",
+        "android_client_info": {
+          "package_name": "com.micrasol.recd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167770679528-mvmrl60tmv6u6gr206h018v874b1bepq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.micrasol.recd",
+            "certificate_hash": "f4c9a84c5b2e4e3ec83aa8db68cf3809850c84bd"
+          }
+        },
+        {
+          "client_id": "167770679528-1r3ejk62gkqfl7vbo3bfb0mli0rou7lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQPLS3WkZVmdljhevDQOSBRXljVDnUeR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167770679528-1r3ejk62gkqfl7vbo3bfb0mli0rou7lm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167770679528-500t46jr77tlhjeptd9bc2f1ue6daqci.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.recd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
